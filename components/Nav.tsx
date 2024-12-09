@@ -54,7 +54,7 @@ export default function Nav() {
           </Avatar>
         </div>
         <h1 className="text-[42px] font-bold lg:text-start">
-          Hi, i&#39;m Alexander 👋
+          Hi, i&#39;m Siddhartha 👋
         </h1>
         <h2 className="text-xl lg:text-start">
           Product designer, developer, founder.

@@ -11,18 +11,18 @@ export const metadata: Metadata = {
   alternates: {
     canonical: "https://meikopoulos.com",
   },
-  title: "Alexander Meikopoulos - Product Designer in AI, Web3, and Finance",
+  title: "Siddhartha Somalinga - Product Designer in AI, Web3, and Finance",
   description:
-    "Alexander Meikopoulos is a Product designer, developer & founder.",
+    "Siddhartha Somalinga is a Product designer, developer & founder.",
   keywords:
-    "Alexander Meikopoulos, Product Designer, AI, Web3, Finance, User Experience, UI/UX Design, Design Systems, Front-end Development, Decentralized Finance, DeFi, Swoop Exchange, Vela Exchange, Stealth AI Startup, Technology, Innovation, Human-Centered Design",
+    "Siddhartha Somalinga, Product Designer, AI, Web3, Finance, User Experience, UI/UX Design, Design Systems, Front-end Development, Decentralized Finance, DeFi, Swoop Exchange, Vela Exchange, Stealth AI Startup, Technology, Innovation, Human-Centered Design",
   openGraph: {
     locale: "en_US",
-    siteName: "Alexander Meikopoulos",
+    siteName: "Siddhartha Somalinga",
     type: "website",
-    title: "Alexander Meikopoulos",
+    title: "Siddhartha Somalinga",
     description:
-      "Alexander Meikopoulos is a Product designer, developer & founder.",
+      "Siddhartha Somalinga is a Product designer, developer & founder.",
     url: "https://meikopoulos.com",
     images: [
       {
@@ -32,7 +32,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Alexander Meikopoulos",
+    title: "Siddhartha Somalinga",
   },
 };
 
