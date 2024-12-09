@@ -9,7 +9,7 @@ export default function Footer() {
           <a className="text-foreground" href="https://brittanychiang.com">
             Brittany Chiang&#39;s website
           </a>{" "}
-          (they awesome). Coded in{" "}
+           Coded in{" "}
           <a className="text-foreground" href="https://code.visualstudio.com/">
             Visual Studio Code.
           </a>{" "}
