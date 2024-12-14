@@ -11,13 +11,12 @@ export default function About() {
       </div>
       <div className="flex flex-col gap-4">
         <p className="text-start text-muted-foreground lg:px-6">
-          Throughout my journey from coding to design, I've been guided by a
-          simple belief:{" "}
+          I am currently a college freshman at the {" "}
           <span className="text-white">
-            technology should feel natural and intuitive.
+            University of Texas at Dallas.
           </span>{" "}
-          At the crossroads of AI, Web3, and Finance, I focus on creating user
-          experiences that make complex ideas accessible.
+          I am focusing on Artificial Intelligence and Machine Learning and have experience with developing and integrating
+          software in a variety of fields.
         </p>
         <p className="text-start  text-muted-foreground lg:px-6">
           Currently, I'm a software engineer intern at{" "} 

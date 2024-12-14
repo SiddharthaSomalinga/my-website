@@ -49,7 +49,7 @@ export default function Nav() {
           Hi, i&#39;m Siddhartha 👋
         </h1>
         <h2 className="text-xl lg:text-start">
-          Product designer, developer, founder.
+          Software Engineer.
         </h2>
         <p className="text-lg lg:text-start text-muted-foreground">
         Hello! My name is Siddhartha Somalinga, a dedicated software developer who has 
