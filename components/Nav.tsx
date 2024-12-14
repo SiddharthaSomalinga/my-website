@@ -52,9 +52,9 @@ export default function Nav() {
           Product designer, developer, founder.
         </h2>
         <p className="text-lg lg:text-start text-muted-foreground">
-          I help innovative startups in AI, Web3, and Finance craft exceptional
-          user experiences, translating complex technologies into intuitive
-          interfaces that resonate with humans.
+        Hello! I'm Siddhartha Somalinga, a dedicated software developer who has 
+        modern day experience in many fields. My expertise lies in not only software development, 
+        but also the furthering of a company's success through making processes more efficient. 
         </p>
       </div>
       <nav className="lg:flex hidden">

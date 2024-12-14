@@ -20,36 +20,33 @@ export default function About() {
           experiences that make complex ideas accessible.
         </p>
         <p className="text-start  text-muted-foreground lg:px-6">
-          Currently, I'm leading product design at a stealth AI startup that's
-          rethinking how we interact with money. I'm also steering the design
-          team at{" "}
+          Currently, I'm a software engineer intern at
           <a
             className="no-wrap text-primary dark:text-white"
-            href="https://vela.exchange"
+            href="https://www.petrasecurity.com/"
             target="blank"
             rel="noopener noreferrer"
           >
-            Vela Exchange
+            Petra Security
           </a>
-          , a decentralized platform for perpetual trading. As a co-founder,
+          , programming several vital components of their cybersecurity product
+          at{" "}. As a research member at
           designer, and developer at{" "}
           <a
             className="no-wrap text-primary dark:text-white"
-            href="https://swoop.exchange"
+            href="https://www.aiaautd.org/"
             target="blank"
             rel="noopener noreferrer"
           >
-            Swoop Exchange
+            AIAA UTD
           </a>
-          , I've helped build a meta-aggregation engine used daily by thousands
-          of users.
+          , part of the drone swarm project, I have developed algorithms using ROS and Python to coordinate a swarm of drones.
         </p>
         <p className="text-start text-muted-foreground lg:px-6">
-          Across all the applications I've been involved with, I've had the
-          privilege to contribute in facilitating billions in transaction
-          volume. I believe in making technology feel human—designing
-          applications and experiences that are seamless extensions of
-          ourselves, serving real needs with simplicity and clarity.
+        I enjoy working in collaborative environments 
+        which help with producing quality solutions. My experience working closely with 
+        project managers has also enabled me to set attainable goals and achieve them in software development. 
+        Let's connect and explore how we can drive technological innovation together!
         </p>
       </div>
     </section>
