@@ -20,14 +20,14 @@ export default function About() {
           experiences that make complex ideas accessible.
         </p>
         <p className="text-start  text-muted-foreground lg:px-6">
-          Currently, I'm a software engineer intern at
+          Currently, I'm a software engineer intern at 
           <a
             className="no-wrap text-primary dark:text-white"
             href="https://www.petrasecurity.com/"
             target="blank"
             rel="noopener noreferrer"
           >
-            Petra Security
+             Petra Security
           </a>
           , programming several vital components of their cybersecurity product
           at{" "}. As a research member at
