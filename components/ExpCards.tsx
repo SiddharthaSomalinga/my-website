@@ -28,18 +28,18 @@ const jobPositions = [
     ],
   },
   {
-    timeline: "Mar 2024 — Present",
-    currentPosition: "Head of Product Design",
-    place: "Vela Exchange",
-    previousPositions: ["Designer and Front-end Developer"],
+    timeline: "Mar 2022 — Aug 2022",
+    currentPosition: "Lead Software Engineer",
+    place: "Cafe Mocha",
+    previousPositions: [""],
     description:
-      "Leading the design team for Vela Exchange, a community-first, decentralized perpetuals trading platform. My role involves setting the vision and standards for design excellence, and actively contributing to hands-on product design.",
+      "Designed and launched a new website for Cafe Mocha, increasing web traffic by over 50% and improving accessibility to mental health resources. Managed Cafe Mocha's website by analyzing engagement data and identifying interaction trends to build a supportive online community focused on mental health",
     skills: [
-      "Product Design",
+      "HTML",
+      "CSS",
       "UI/UX Design",
-      "Design Systems",
-      "Design Strategy",
-      "Team Leadership",
+      "SEO Optimization",
+      "Back-End Development",
     ],
   },
   {
