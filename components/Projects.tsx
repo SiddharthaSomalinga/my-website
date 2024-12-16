@@ -13,9 +13,9 @@ import { MoveUpRight } from "lucide-react";
 const jobProjects = [
   {
     imagePath: "/vela.avif",
-    title: "Vela Exchange - Product Design",
+    title: "Harmful Algal Bloom Drone Detection",
     description:
-      "Led a team of 4 designers, implementing design systems and processes to launch flagship features like Duels, Accounts, Loyalty Tiers, and Notification Tray and System.",
+      "Developed an innovative drone system to detect Harmful Algal Blooms (HABs) in water bodies, integrating advanced sensors, coding solutions, and real-time data transmission technologies. Engineered the drone with specialized sensors and implemented automated flight patterns, contributing to environmental sustainability efforts, presenting to a panel of Garver Engineering Engineers, and securing 3rd place at the district-level competition, earning an $800 scholarship",
     skills: [
       "Product Design",
       "UI/UX Design",
@@ -28,9 +28,9 @@ const jobProjects = [
   },
   {
     imagePath: "/l3x.avif",
-    title: "L3X Network - Founding Product Design",
+    title: "Rainfall Prediction Machine Learning Model",
     description:
-      "L3X Network is a Layer 3 interoperability blockchain designed to provide institutions, developers, and users with secure, compliant, and efficient access to decentralized finance (DeFi) markets. My role involved founding and leading the design team, mapping UX, and designing the protocol's Landing Page and Interfaces for the Bridge, Trading, Swap, and Staking platforms.",
+      "Developed a machine learning model using Python in Google Colab for rainfall prediction, leveraging historical weather data and advanced regression algorithms to improve forecast accuracy. Implemented data preprocessing techniques and feature engineering, enhancing model performance with an accuracy rate of 74%",
     skills: [
       "Product Design",
       "UI/UX Design",
@@ -41,7 +41,7 @@ const jobProjects = [
     ],
     link: "https://l3x.com",
   },
-  {
+  /*{
     imagePath: "/swoop-og-banner.webp",
     title: "Swoop Exchange - Landing Page",
     description:
@@ -80,7 +80,7 @@ const jobProjects = [
       "The portfolio webpage you are looking at right now. Based on Brittany Chiang's website (they awesome). Coded in Visual Studio Code.",
     skills: ["Typescript", "JavaScript", "Tailwind CSS", "Vercel"],
     link: "https://github.com/0xAlexander/my-website",
-  },
+  }, */
 ];
 
 export default function Projects() {
