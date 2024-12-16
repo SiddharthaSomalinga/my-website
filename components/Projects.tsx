@@ -24,7 +24,7 @@ const jobProjects = [
       "Vercel",
       "Figma",
     ],
-    link: "https://vela.exchange",
+    link: "https://drive.google.com/file/d/1f4KQWQAt81UBBJKj_0FiXonB-uD4zcNU/view?usp=sharing",
   },
   {
     imagePath: "/l3x.avif",
