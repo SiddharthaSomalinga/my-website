@@ -28,6 +28,21 @@ const jobPositions = [
     ],
   },
   {
+    timeline: "Sep 2024 — Present",
+    currentPosition: "Aerospace Research Corps Research Member",
+    place: "AIAA UTD",
+    previousPositions: [""],
+    description:
+      "Collaborating with a research team to develop C++ and Python scripts for controlling a swarm of small drones using ROS (Robot Operating System), focusing on creating complex patterns and shapes with advice from Dr . Tyler Summers's Lab. Developing and testing algorithms to enable the drones to communicate and operate autonomously. Contributing to the design of drone swarm algorithms and performances, leading to the development of unique shows that showcase the capabilities of autonomous drones in synchronized flight",
+    skills: [
+      "C++",
+      "Python",
+      "ROS",
+      "Drone Technologies",
+      "Mathematical Modeling",
+    ],
+  },
+  {
     timeline: "Mar 2022 — Aug 2022",
     currentPosition: "Lead Software Engineer",
     place: "Cafe Mocha",
@@ -42,30 +57,7 @@ const jobPositions = [
       "Back-End Development",
     ],
   },
-  {
-    timeline: "Feb 2022 — Presents",
-    currentPosition: "Co-founder, Designer & Developer",
-    place: "Swoop Exchange",
-    previousPositions: [""],
-    description:
-      "Co-founded, designed, and developed a Next-Gen Decentralized Exchange from MVP to launch, scaling from zero to over $10M in trading volume. Swoop Exchange is powered by a novel Meta-Aggregation Engine that leverages sophisticated routing algorithms and APIs to automatically route trades from the most profitable liquidity sources, vastly improving swap efficiency and user experience.",
-    skills: [
-      "Typescript",
-      "JavaScript",
-      "CSS",
-      "Tailwind CSS",
-      "MUI",
-      "HTML",
-      "Figma",
-      "UI/UX Design",
-      "Blockchain tech",
-      "Project Management",
-      "Planning",
-      "Leadership",
-      "Testing & QA",
-    ],
-  },
-  {
+  /*{
     timeline: "Aug 2016 — Mar 2024",
     currentPosition: "Head of QA",
     place: "Lykomitros Steel",
@@ -85,7 +77,7 @@ const jobPositions = [
       "Requirement Assessment",
       "Auditing",
     ],
-  },
+  }, 
   {
     timeline: "Nov 2013 - May 2014",
     currentPosition: "Digital Systems Admin - Internship",
@@ -104,7 +96,7 @@ const jobPositions = [
       "Automation",
       "Scripting",
     ],
-  },
+  }, */
 ];
 
 export default function ExpCard() {
