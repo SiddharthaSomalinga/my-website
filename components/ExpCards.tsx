@@ -141,13 +141,13 @@ export default function ExpCard() {
       </>
       <div className="lg:px-12 mt-12">
         <a
-          href="mailto:siddhartha.somalinga@gmail.com"
+          href="https://docs.google.com/document/d/1F6jC0ty1CqFDMGVm_AgXl-7UCoC897XoFoeEqe4SozI/edit?usp=sharing"
           target="_blank"
           rel="noopener noreferrer"
           className="inline-flex items-center font-medium leading-tight text-foreground group"
         >
           <span className="border-b border-transparent pb-px transition hover:border-primary motion-reduce:transition-none">
-            Reach out for Full Resume
+            Resume
           </span>
           <MoveRight className="ml-1 inline-block h-5 w-5 shrink-0 -translate-y-px transition-transform group-hover:translate-x-2 group-focus-visible:translate-x-2 motion-reduce:transition-none" />
         </a>
