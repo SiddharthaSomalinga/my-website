@@ -46,7 +46,7 @@ export default function Nav() {
     <header className="lg:sticky lg:top-0 lg:flex lg:max-h-screen lg:w-1/2 lg:flex-col lg:justify-between lg:py-24 flex flex-col lg:gap-4">
       <div className="flex flex-col gap-4 lg:pr-24 mt-6 lg:mt-0">
         <h1 className="text-[42px] font-bold lg:text-start">
-          Hi, i&#39;m Siddhartha 👋
+          Hi, I&#39;m Siddhartha 👋
         </h1>
         <h2 className="text-xl lg:text-start">
           Software Engineer.
