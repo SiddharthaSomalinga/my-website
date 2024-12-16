@@ -15,7 +15,7 @@ const jobProjects = [
     imagePath: "/vela.avif",
     title: "Harmful Algal Bloom Drone Detection",
     description:
-      "Developed an innovative drone system to detect Harmful Algal Blooms (HABs) in water bodies, integrating advanced sensors, coding solutions, and real-time data transmission technologies. Engineered the drone with specialized sensors and implemented automated flight patterns, contributing to environmental sustainability efforts, presenting to a panel of Garver Engineering Engineers, and securing 3rd place at the district-level competition, earning an $800 scholarship",
+      "I developed an innovative drone system to detect Harmful Algal Blooms (HABs) in water bodies by integrating advanced sensors, coding solutions, and real-time data transmission technologies. I engineered the drone with specialized sensors and implemented automated flight patterns, contributing to environmental sustainability efforts. This project was presented to a panel of engineers from Garver Engineering, where it earned 3rd place at a district-level competition and secured an $800 scholarship.",
     skills: [
       "Product Design",
       "UI/UX Design",
@@ -30,7 +30,7 @@ const jobProjects = [
     imagePath: "/l3x.avif",
     title: "Rainfall Prediction Machine Learning Model",
     description:
-      "Developed a machine learning model using Python in Google Colab for rainfall prediction, leveraging historical weather data and advanced regression algorithms to improve forecast accuracy. Implemented data preprocessing techniques and feature engineering, enhancing model performance with an accuracy rate of 74%",
+      "I developed a machine learning model using Python in Google Colab to predict rainfall, leveraging historical weather data and advanced regression algorithms to improve forecast accuracy. I implemented data preprocessing techniques and feature engineering, which enhanced the model's performance, achieving an accuracy rate of 74%.",
     skills: [
       "Product Design",
       "UI/UX Design",
