@@ -37,7 +37,7 @@ const jobProjects = [
       "Pandas",
       "Data Analysis",
     ],
-    link: "https://l3x.com",
+    link: "https://drive.google.com/drive/folders/11yTmeEQSD2DwtckHsc6992UN6dh770Qa?usp=sharing",
   },
   /*{
     imagePath: "/swoop-og-banner.webp",
