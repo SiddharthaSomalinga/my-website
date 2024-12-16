@@ -12,19 +12,19 @@ import { MoveRight } from "lucide-react";
 
 const jobPositions = [
   {
-    timeline: "Aug 2024 — Present",
-    currentPosition: "Founding Designer & Head of Product Design",
-    place: "Stealth AI Startup",
+    timeline: "Nov 2024 — Present",
+    currentPosition: "Software Engineer Intern",
+    place: "Petra Security",
     previousPositions: [""],
     description:
-      "Establishing and leading the design team for a Stealth AI Startup set to bring the New Era of Money. My role involves founding and leading the design team, setting the vision and standards for design excellence, direct branding and actively contributing to hands-on product design for going to market.",
+      "Developed and implemented an automated system to monitor online forums, tracking key topics in cybersecurity such as token theft and business email compromise (BEC) to provide the product to users in need. Optimized monitoring by analyzing trends and automating keyword detection, improving responsiveness to emerging cybersecurity threats for this cybersecurity startup",
     skills: [
-      "Brand Identity",
-      "Product Design",
-      "UI/UX Design",
-      "Design Systems",
-      "Design Strategy",
-      "Team Leadership",
+      "Python",
+      "Automation",
+      "Cybersecurity",
+      "APIs",
+      "Version Control",
+      "Databases",
     ],
   },
   {
