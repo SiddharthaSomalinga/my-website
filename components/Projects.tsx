@@ -27,7 +27,7 @@ const jobProjects = [
     link: "https://drive.google.com/file/d/1f4KQWQAt81UBBJKj_0FiXonB-uD4zcNU/view?usp=sharing",
   },
   {
-    imagePath: "/l3x.avif",
+    imagePath: "/rainfall-ml-model.jpg",
     title: "Rainfall Prediction Machine Learning Model",
     description:
       "I developed a machine learning model using Python in Google Colab to predict rainfall, leveraging historical weather data and advanced regression algorithms to improve forecast accuracy. I implemented data preprocessing techniques and feature engineering, which enhanced the model's performance, achieving an accuracy rate of 74%.",
