@@ -12,7 +12,7 @@ import { MoveUpRight } from "lucide-react";
 
 const jobProjects = [
   {
-    imagePath: "/vela.avif",
+    imagePath: "/hab-drone.png",
     title: "Harmful Algal Bloom Drone Detection",
     description:
       "I developed an innovative drone system to detect Harmful Algal Blooms (HABs) in water bodies by integrating advanced sensors, coding solutions, and real-time data transmission technologies. I engineered the drone with specialized sensors and implemented automated flight patterns, contributing to environmental sustainability efforts. This project was presented to a panel of engineers from Garver Engineering, where it earned 3rd place at a district-level competition and secured an $800 scholarship.",
