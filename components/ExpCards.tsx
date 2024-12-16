@@ -17,7 +17,7 @@ const jobPositions = [
     place: "Petra Security",
     previousPositions: [""],
     description:
-      "Developed and implemented an automated system to monitor online forums, tracking key topics in cybersecurity such as token theft and business email compromise (BEC) to provide the product to users in need. Optimized monitoring by analyzing trends and automating keyword detection, improving responsiveness to emerging cybersecurity threats for this cybersecurity startup",
+      "I developed and implemented an automated system to monitor online forums, focusing on tracking key topics in cybersecurity, such as token theft and business email compromise (BEC). This system was designed to deliver valuable insights to users in need. Additionally, I optimized the monitoring process by analyzing trends and automating keyword detection, which significantly improved the system's responsiveness to emerging cybersecurity threats for this startup.",
     skills: [
       "Python",
       "Automation",
@@ -33,7 +33,7 @@ const jobPositions = [
     place: "AIAA UTD",
     previousPositions: [""],
     description:
-      "Collaborating with a research team to develop C++ and Python scripts for controlling a swarm of small drones using ROS (Robot Operating System), focusing on creating complex patterns and shapes with advice from Dr . Tyler Summers's Lab. Developing and testing algorithms to enable the drones to communicate and operate autonomously. Contributing to the design of drone swarm algorithms and performances, leading to the development of unique shows that showcase the capabilities of autonomous drones in synchronized flight",
+      "I am collaborating with a research team to develop C++ and Python scripts for controlling a swarm of small drones using ROS (Robot Operating System), with a focus on creating complex patterns and shapes under the guidance of Dr. Tyler Summers's Lab. I am also developing and testing algorithms that enable the drones to communicate and operate autonomously. Furthermore, I am contributing to the design of drone swarm algorithms and performances, which has resulted in the creation of unique shows that demonstrate the capabilities of autonomous drones in synchronized flight.",
     skills: [
       "C++",
       "Python",
@@ -48,7 +48,7 @@ const jobPositions = [
     place: "Cafe Mocha",
     previousPositions: [""],
     description:
-      "Designed and launched a new website for Cafe Mocha, increasing web traffic by over 50% and improving accessibility to mental health resources. Managed Cafe Mocha's website by analyzing engagement data and identifying interaction trends to build a supportive online community focused on mental health",
+      "I designed and launched a new website for Cafe Mocha, which increased web traffic by over 50% and significantly improved accessibility to mental health resources. Additionally, I managed the website by analyzing engagement data and identifying interaction trends to foster a supportive online community centered around mental health.",
     skills: [
       "HTML",
       "CSS",
