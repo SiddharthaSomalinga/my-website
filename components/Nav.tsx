@@ -52,9 +52,7 @@ export default function Nav() {
           Software Engineer.
         </h2>
         <p className="text-lg lg:text-start text-muted-foreground">
-        Hello! My name is Siddhartha Somalinga, and I am a dedicated software engineer who has 
-        modern day experience in many fields. My expertise lies in not only software development, 
-        but also the furthering of the sucess of several companies through making their processes more efficient. 
+        Hello! My name is Siddhartha Somalinga, and I am a dedicated software engineer who has modern-day experience in many fields. My expertise lies in not only software development but also the furthering of the success of several companies through making their processes more efficient. 
         </p>
       </div>
       <nav className="lg:flex hidden">

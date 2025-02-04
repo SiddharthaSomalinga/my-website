@@ -28,7 +28,7 @@ export default function About() {
           >
             Petra Security
           </a>
-          , programming several vital components of their cybersecurity product. As a research member at
+          , programming several vital components of their cybersecurity product. As a research member, 
           designer, and developer at{" "}
           <a
             className="no-wrap text-primary dark:text-white"
