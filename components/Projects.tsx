@@ -12,6 +12,20 @@ import { MoveUpRight } from "lucide-react";
 
 const jobProjects = [
   {
+    imagePath: "/fire.png",
+    title: "FireGuard",
+    description:
+      "I developed a trained machine learning model using Python in Google Colab, along with a chatbot through the s(CASP) system, and an embedded live fire map to assist first responders in monitoring wildfires and implementing safety measures. I utilized the Random Forest Classification algorithm, achieving 95% accuracy in predicting fires. My team placed in the top 8 at the HackSkye Hackathon and won the Best Presentation Award.",
+    skills: [
+      "Machine Learning",
+      "Data Analysis and Preprocessing",
+      "Software Development (Python & Google Colab)",
+      "Geospatial Mapping & Embedded Systems",
+      "Answer-Set Programming (Prolog and s(CASP))",
+    ],
+    link: "https://fireguard.streamlit.app/",
+  },
+  {
     imagePath: "/hab-drone.png",
     title: "Harmful Algal Bloom Drone Detection",
     description:
