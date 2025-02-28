@@ -12,6 +12,24 @@ import { MoveRight } from "lucide-react";
 
 const jobPositions = [
   {
+    timeline: "Feb 2025 — Present",
+    currentPosition: "Project Member – CoDriver",
+    place: "Association of Computing Machinery UTD",
+    previousPositions: [""],
+    description:
+      "I am contributing to the development of CoDriver, a mobile app using conversational AI to enhance driver safety, focus, and engagement by designing real-time monitoring features that detect fatigue and distractions, providing immediate feedback to improve road safety. I am also assisting in the development of the app's voice assistant, enabling hands-free interaction and delivering personalized travel information while supporting the integration of navigation systems and contextual data to enhance the driving experience using React Native",
+    skills: [
+      "Python",
+      "Automation",
+      "Cybersecurity",
+      "APIs",
+      "Version Control",
+      "Databases",
+    ],
+  },
+  
+  
+  {
     timeline: "Nov 2024 — Present",
     currentPosition: "Software Engineer Intern",
     place: "Petra Security",
