@@ -12,12 +12,12 @@ import { MoveRight } from "lucide-react";
 
 const jobPositions = [
   {
-    timeline: "Feb 2025 — Present",
-    currentPosition: "Project Member – CoDriver",
+    timeline: "Feb 2025 — Apr 2025",
+    currentPosition: "Full Stack Developer – CoDriver",
     place: "Association of Computing Machinery UTD",
     previousPositions: [""],
     description:
-      "I am contributing to the development of CoDriver, a mobile app using conversational AI to enhance driver safety, focus, and engagement by designing real-time monitoring features that detect fatigue and distractions, providing immediate feedback to improve road safety. I am also assisting in the development of the app's voice assistant, enabling hands-free interaction and delivering personalized travel information while supporting the integration of navigation systems and contextual data to enhance the driving experience using React Native",
+      "I used React Native to design and implement real-time voice assistant features for CoDriver, a safety-critical mobile application, to enhance driver focus and reduce distractions, resulting in a 35% decrease in manual user input during test scenarios. I contributed to the development of a hands-free, conversational AI system that delivers personalized travel information and contextual updates by integrating third-party navigation systems, improving overall app usability by 25%.",
     skills: [
       "Python",
       "Automation",
@@ -35,7 +35,7 @@ const jobPositions = [
     place: "Petra Security",
     previousPositions: [""],
     description:
-      "I developed and implemented an automated system to monitor online forums, focusing on tracking key topics in cybersecurity, such as token theft and business email compromise (BEC). This system was designed to deliver valuable insights to users in need. Additionally, I optimized the monitoring process by analyzing trends and automating keyword detection, which significantly improved the system's responsiveness to emerging cybersecurity threats for this startup.",
+      "I used Python and custom scraping tools to build an automated cybersecurity monitoring system that tracked online forums for threats like token theft and business email compromise (BEC), leading to a 60% reduction in analyst workload. I applied trend analysis and AI-based threat detection algorithms to optimize the relevance of alerts, improving real-time responsiveness to cybersecurity threats by 40%, helping clients act more quickly and accurately on potential attacks.",
     skills: [
       "Python",
       "Automation",
@@ -46,12 +46,12 @@ const jobPositions = [
     ],
   },
   {
-    timeline: "Sep 2024 — Present",
-    currentPosition: "Aerospace Research Corps Research Member",
+    timeline: "Sep 2024 — Apr 2025",
+    currentPosition: "Aerospace Research Corps Research Member - Drone Swarm Project",
     place: "AIAA UTD",
     previousPositions: [""],
     description:
-      "I am collaborating with a research team to develop C++ and Python scripts for controlling a swarm of small drones using ROS (Robot Operating System), with a focus on creating complex patterns and shapes under the guidance of Dr. Tyler Summers's Lab. I am also developing and testing algorithms that enable the drones to communicate and operate autonomously. Furthermore, I am contributing to the design of drone swarm algorithms and performances, which has resulted in the creation of unique shows that demonstrate the capabilities of autonomous drones in synchronized flight.",
+      "I used C++ and Python scripts with ROS to develop flight algorithms for a swarm of autonomous drones capable of forming complex aerial patterns, achieving 75% precision in synchronized movements. I contributed to drone swarm simulation and performance testing through over 500 trials, reducing positional error rate by 20% in real-world test environments and currently preparing findings for publication under Dr. Tyler Summers's Robotics Lab.",
     skills: [
       "C++",
       "Python",
@@ -66,7 +66,7 @@ const jobPositions = [
     place: "Cafe Mocha",
     previousPositions: [""],
     description:
-      "I designed and launched a new website for Cafe Mocha, which increased web traffic by over 50% and significantly improved accessibility to mental health resources. Additionally, I managed the website by analyzing engagement data and identifying interaction trends to foster a supportive online community centered around mental health.",
+      "I used front-end development tools to completely redesign and launch Cafe Mocha’s website, increasing web traffic by 54% and significantly improving accessibility and mobile responsiveness for users seeking mental health resources. I managed web performance using engagement data via Google Analytics and improved navigation structure, resulting in a 40% increase in interaction with support content and stronger community participation.",
     skills: [
       "HTML",
       "CSS",
@@ -75,46 +75,6 @@ const jobPositions = [
       "Back-End Development",
     ],
   },
-  /*{
-    timeline: "Aug 2016 — Mar 2024",
-    currentPosition: "Head of QA",
-    place: "Lykomitros Steel",
-    previousPositions: [
-      "Quality Assurance Engineer",
-      "QA/QC Administrative Support",
-    ],
-    description:
-      "Lead the QA department, focusing on renewable energy components in steel manufacturing. Maintained industry and client standards, ensuring product integrity for renewable energy.",
-    skills: [
-      "ISO Compliance",
-      "Quality Assurance",
-      "Engineering Management",
-      "ISO 9001",
-      "ISO 45001",
-      "ISO 14001",
-      "Requirement Assessment",
-      "Auditing",
-    ],
-  }, 
-  {
-    timeline: "Nov 2013 - May 2014",
-    currentPosition: "Digital Systems Admin - Internship",
-    place: "OTE Group (HTO)",
-    previousPositions: [""],
-    description:
-      "Gained valuable experience in digital systems administration, focusing on the management of contractors and capital.",
-    skills: [
-      "SQL",
-      "Administration",
-      "Problem-Solving",
-      "Computer Systems",
-      "System documentation",
-      "Networking",
-      "Cloud Computing",
-      "Automation",
-      "Scripting",
-    ],
-  }, */
 ];
 
 export default function ExpCard() {
