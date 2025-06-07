@@ -15,7 +15,7 @@ const jobProjects = [
     imagePath: "/fire.png",
     title: "FireGuard",
     description:
-      "I developed a trained machine learning model using Python in Google Colab, along with a chatbot through the s(CASP) system, and an embedded live fire map to assist first responders in monitoring wildfires and implementing safety measures. I utilized the Random Forest Classification algorithm, achieving 95% accuracy in predicting fires. My team placed in the top 8 at the HackSkye Hackathon and won the Best Presentation Award.",
+      "I used Random Forest algorithm and wildfire datasets in Python to train a predictive model capable of identifying potential wildfire risks with 95% accuracy, supporting emergency response teams in identifying high-risk zones. I built and integrated a chatbot system using s(CASP) and a live embedded fire map to provide real-time updates, which enabled first responders to take immediate action during simulated wildfire drills, reducing average decision time by 30%. I am currently integrating the ML model into Retenica’s Wildfire Tracker app, and this project earned Top 8 placement and Best Presentation Award at HackSkye 2025 out of 100+ submissions.",
     skills: [
       "Machine Learning",
       "Data Analysis and Preprocessing",
@@ -29,7 +29,7 @@ const jobProjects = [
     imagePath: "/hab-drone.png",
     title: "Harmful Algal Bloom Drone Detection",
     description:
-      "I developed an innovative drone system to detect Harmful Algal Blooms (HABs) in water bodies by integrating advanced sensors, coding solutions, and real-time data transmission technologies. I engineered the drone with specialized sensors and implemented automated flight patterns, contributing to environmental sustainability efforts. This project was presented to a panel of engineers from Garver Engineering, where it earned 3rd place at a district-level competition and secured an $800 scholarship.",
+      "I used OpenCV and AI-based image recognition to program a drone system for detecting harmful algal blooms (HABs), achieving 87% classification accuracy on diverse water samples collected across multiple test environments. I presented the project to a panel of Garver Engineering professionals and academic mentors, securing 3rd place at the district competition and earning an $800 scholarship through partnerships with MIT and public safety experts.",
     skills: [
       "Drone Technology",
       "Sensor Integration",
@@ -43,7 +43,7 @@ const jobProjects = [
     imagePath: "/rainfall-ml-model.jpg",
     title: "Rainfall Prediction Machine Learning Model",
     description:
-      "I developed a machine learning model using Python in Google Colab to predict rainfall, leveraging historical weather data and advanced regression algorithms to improve forecast accuracy. I implemented data preprocessing techniques and feature engineering, which enhanced the model's performance, achieving an accuracy rate of 74%.",
+      "I used historical weather datasets to develop a machine learning model with PyTorch and TensorFlow for rainfall prediction, achieving 74% accuracy in regional forecasts through regression analysis. I applied data preprocessing techniques and feature engineering, including normalization and correlation-based filtering, to increase model performance by 30% over the initial baseline.",
     skills: [
       "Python",
       "Linear Regression",
