@@ -23,7 +23,7 @@ const jobProjects = [
       "Geospatial Mapping & Embedded Systems",
       "Answer-Set Programming (Prolog and s(CASP))",
     ],
-    link: "https://fireguard.streamlit.app/",
+    link: "https://fireshield.streamlit.app",
   },
   {
     imagePath: "/hab-drone.png",
