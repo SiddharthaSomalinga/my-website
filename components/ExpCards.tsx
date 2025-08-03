@@ -12,25 +12,7 @@ import { MoveRight } from "lucide-react";
 
 const jobPositions = [
   {
-    timeline: "Feb 2025 — Apr 2025",
-    currentPosition: "Full Stack Developer – CoDriver",
-    place: "Association of Computing Machinery UTD",
-    previousPositions: [""],
-    description:
-      "I used React Native to design and implement real-time voice assistant features for CoDriver, a safety-critical mobile application, to enhance driver focus and reduce distractions, resulting in a 35% decrease in manual user input during test scenarios. I contributed to the development of a hands-free, conversational AI system that delivers personalized travel information and contextual updates by integrating third-party navigation systems, improving overall app usability by 25%.",
-    skills: [
-      "Python",
-      "Automation",
-      "Cybersecurity",
-      "APIs",
-      "Version Control",
-      "Databases",
-    ],
-  },
-  
-  
-  {
-    timeline: "Nov 2024 — Present",
+    timeline: "May 2025 — Aug 2025",
     currentPosition: "Software Engineer Intern",
     place: "Petra Security",
     previousPositions: [""],
@@ -43,6 +25,22 @@ const jobPositions = [
       "APIs",
       "Version Control",
       "Databases",
+    ],
+  },
+  {
+    timeline: "Feb 2025 — Apr 2025",
+    currentPosition: "Full Stack Developer – CoDriver",
+    place: "Association of Computing Machinery UTD",
+    previousPositions: [""],
+    description:
+      "I used React Native to design and implement real-time voice assistant features for CoDriver, a safety-critical mobile application, to enhance driver focus and reduce distractions, resulting in a 35% decrease in manual user input during test scenarios. I contributed to the development of a hands-free, conversational AI system that delivers personalized travel information and contextual updates by integrating third-party navigation systems, improving overall app usability by 25%.",
+    skills: [
+      "React Native",
+      "JavaScript / TypeScript",
+      "Mobile App Development",
+      "APIs",
+      "Voice Interface Development",
+      "Expo",
     ],
   },
   {
